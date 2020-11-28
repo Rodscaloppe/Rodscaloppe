@@ -6,12 +6,10 @@ implement criterion appropriate to the organization and what requirements result
 
 ### Projetos da vida
 
--
-Instructor - Digital Inclusion Project for underprivileged community (UFMT)
+-	Instructor - Digital Inclusion Project for underprivileged community (UFMT)
 Research group LAVI / UFMT, in the development and alignment of ontologies for ubiquitous systems.
 
--
-Digital inclusion project for underprivileged community (UFMT).
+-	Digital inclusion project for underprivileged community (UFMT).
 This project aims to train underprivileged people with basic computer courses, 
 so that they can improve their professional profile in society, achieving a better social condition.
 
