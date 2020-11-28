@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-+ ou - 4 anos de experiência com desenvolvimento e validação e toda análise da qualidade do produto. Eu me esforço para construir ótimos produtos, sou apaixonado no que faço e gosto de conhecer coisas novas assim consigo construir soluções escaláveis, implemento processos adequados à organização e que produzem resultados.
+Experience with development, validation and all product quality analysis. I strive to build great products, 
+I am passionate about what I do and I like to know new things in order to build scalable solutions, 
+implement criterion appropriate to the organization and what requirements result.
 
 
 
