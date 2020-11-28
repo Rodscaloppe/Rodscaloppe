@@ -1,5 +1,10 @@
 ### Hi there 👋
 
++ ou - 4 anos de experiência com desenvolvimento e validação e toda análise da qualidade do produto. Eu me esforço para construir ótimos produtos, sou apaixonado no que faço e gosto de conhecer coisas novas assim consigo construir soluções escaláveis, implemento processos adequados à organização e que produzem resultados.
+
+
+
+
 <!--
 **Rodscaloppe/Rodscaloppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
