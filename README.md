@@ -13,6 +13,11 @@ Research group LAVI / UFMT, in the development and alignment of ontologies for u
 This project aims to train underprivileged people with basic computer courses, 
 so that they can improve their professional profile in society, achieving a better social condition.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rodscaloppe/count.svg" />
+</p>
+
 
 <!--
 **Rodscaloppe/Rodscaloppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
