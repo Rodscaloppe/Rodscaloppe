@@ -22,7 +22,7 @@ so that they can improve their professional profile in society, achieving a bett
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **Rodscaloppe/Rodscaloppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
