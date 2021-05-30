@@ -16,9 +16,8 @@ so that they can improve their professional profile in society, achieving a bett
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rodscaloppe/count.svg" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&count_private=true&show_icons=true&theme=chartreuse-dark)
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **Rodscaloppe/Rodscaloppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
