@@ -29,3 +29,25 @@ Here are some ideas to get you started:
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodscaloppe&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 -->
+### Languages
+</div>
+<div style="display: inline-block">
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/vanessafsoares">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodscaloppe&theme=github" height="172em" style="max-width: 100%;" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Rodscaloppe">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodscaloppe&theme=github" height="190em" style="max-width: 100%;" />
+  </a>
+ </div>
+
+<img src="https://komarev.com/ghpvc/?username=Rodscaloppe" alt="Rodscaloppe" />
