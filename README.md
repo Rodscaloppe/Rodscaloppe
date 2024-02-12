@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="https://github.com/vanessafsoares">
+  <a href="https://github.com/Rodscaloppe">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodscaloppe&theme=github" height="172em" style="max-width: 100%;" />
 </div>
 
