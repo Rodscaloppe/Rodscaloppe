@@ -1,5 +1,5 @@
 
-### Hi there 👋
+ 👋
 Experience with development, validation and all product quality. I strive to build great products, 
 I am passionate about what I do and I like to know new things in order to build scalable solutions, 
 implement criterion appropriate to the organization and what requirements result.
